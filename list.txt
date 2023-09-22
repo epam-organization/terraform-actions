@@ -1,0 +1,252 @@
+{
+  "linux": [
+    {
+      "linux_fx_version": "DOTNET-ISOLATED|8.0",
+      "runtime": "dotnet-isolated",
+      "supported_functions_versions": [
+        "4"
+      ],
+      "version": "8"
+    },
+    {
+      "linux_fx_version": "DOTNET-ISOLATED|7.0",
+      "runtime": "dotnet-isolated",
+      "supported_functions_versions": [
+        "4"
+      ],
+      "version": "7"
+    },
+    {
+      "linux_fx_version": "DOTNET-ISOLATED|6.0",
+      "runtime": "dotnet-isolated",
+      "supported_functions_versions": [
+        "4"
+      ],
+      "version": "6"
+    },
+    {
+      "linux_fx_version": "DOTNET|6.0",
+      "runtime": "dotnet",
+      "supported_functions_versions": [
+        "4"
+      ],
+      "version": "6"
+    },
+    {
+      "linux_fx_version": "Node|20",
+      "runtime": "node",
+      "supported_functions_versions": [
+        "4"
+      ],
+      "version": "20"
+    },
+    {
+      "linux_fx_version": "Node|18",
+      "runtime": "node",
+      "supported_functions_versions": [
+        "4"
+      ],
+      "version": "18"
+    },
+    {
+      "linux_fx_version": "Node|16",
+      "runtime": "node",
+      "supported_functions_versions": [
+        "4"
+      ],
+      "version": "16"
+    },
+    {
+      "linux_fx_version": "Node|14",
+      "runtime": "node",
+      "supported_functions_versions": [
+        "4",
+        "3"
+      ],
+      "version": "14"
+    },
+    {
+      "linux_fx_version": "Python|3.11",
+      "runtime": "python",
+      "supported_functions_versions": [
+        "4"
+      ],
+      "version": "3.11"
+    },
+    {
+      "linux_fx_version": "Python|3.10",
+      "runtime": "python",
+      "supported_functions_versions": [
+        "4"
+      ],
+      "version": "3.10"
+    },
+    {
+      "linux_fx_version": "Python|3.9",
+      "runtime": "python",
+      "supported_functions_versions": [
+        "4",
+        "3"
+      ],
+      "version": "3.9"
+    },
+    {
+      "linux_fx_version": "Python|3.8",
+      "runtime": "python",
+      "supported_functions_versions": [
+        "4",
+        "3"
+      ],
+      "version": "3.8"
+    },
+    {
+      "linux_fx_version": "Python|3.7",
+      "runtime": "python",
+      "supported_functions_versions": [
+        "4",
+        "3"
+      ],
+      "version": "3.7"
+    },
+    {
+      "linux_fx_version": "Java|17",
+      "runtime": "java",
+      "supported_functions_versions": [
+        "4"
+      ],
+      "version": "17.0"
+    },
+    {
+      "linux_fx_version": "Java|11",
+      "runtime": "java",
+      "supported_functions_versions": [
+        "4",
+        "3"
+      ],
+      "version": "11.0"
+    },
+    {
+      "linux_fx_version": "Java|8",
+      "runtime": "java",
+      "supported_functions_versions": [
+        "4",
+        "3"
+      ],
+      "version": "8.0"
+    },
+    {
+      "linux_fx_version": "PowerShell|7.2",
+      "runtime": "powershell",
+      "supported_functions_versions": [
+        "4"
+      ],
+      "version": "7.2"
+    },
+    {
+      "linux_fx_version": "",
+      "runtime": "custom",
+      "supported_functions_versions": [
+        "4",
+        "3"
+      ],
+      "version": ""
+    }
+  ],
+  "windows": [
+    {
+      "runtime": "dotnet-isolated",
+      "supported_functions_versions": [
+        "4"
+      ],
+      "version": "4.8"
+    },
+    {
+      "runtime": "dotnet-isolated",
+      "supported_functions_versions": [
+        "4"
+      ],
+      "version": "7"
+    },
+    {
+      "runtime": "dotnet-isolated",
+      "supported_functions_versions": [
+        "4"
+      ],
+      "version": "6"
+    },
+    {
+      "runtime": "dotnet",
+      "supported_functions_versions": [
+        "4"
+      ],
+      "version": "6"
+    },
+    {
+      "runtime": "node",
+      "supported_functions_versions": [
+        "4"
+      ],
+      "version": "20"
+    },
+    {
+      "runtime": "node",
+      "supported_functions_versions": [
+        "4"
+      ],
+      "version": "18"
+    },
+    {
+      "runtime": "node",
+      "supported_functions_versions": [
+        "4"
+      ],
+      "version": "16"
+    },
+    {
+      "runtime": "node",
+      "supported_functions_versions": [
+        "4",
+        "3"
+      ],
+      "version": "14"
+    },
+    {
+      "runtime": "java",
+      "supported_functions_versions": [
+        "4"
+      ],
+      "version": "17.0"
+    },
+    {
+      "runtime": "java",
+      "supported_functions_versions": [
+        "4",
+        "3"
+      ],
+      "version": "11.0"
+    },
+    {
+      "runtime": "java",
+      "supported_functions_versions": [
+        "4",
+        "3"
+      ],
+      "version": "8.0"
+    },
+    {
+      "runtime": "powershell",
+      "supported_functions_versions": [
+        "4"
+      ],
+      "version": "7.2"
+    },
+    {
+      "runtime": "custom",
+      "supported_functions_versions": [
+        "4",
+        "3"
+      ],
+      "version": ""
+    }
+  ]
+}
