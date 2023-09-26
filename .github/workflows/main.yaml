@@ -1,6 +1,6 @@
 name: Terraform Plan
 
-# configure to run on merges to 'main' branch
+# configure to run on merges to 'main' branch 
 # branch
 on:
   push:
