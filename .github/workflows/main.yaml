@@ -20,7 +20,7 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v2
 
-    # be sure to authenticate with cloud provider 
+    # be sure to authenticate with cloud provider
     - name: Azure Login
       uses: azure/login@v1
       with:
