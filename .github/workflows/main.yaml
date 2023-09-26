@@ -1,11 +1,12 @@
 name: Terraform Plan
 
 # configure to run on merges to 'main' branch
-branch
+# branch
 on:
   push:
     # branches: [ main ]
-    branches: [ pipelinesActions ]
+    branches: 
+      - pipelinesActions
 
 jobs:
   deploy:
@@ -42,5 +43,6 @@ jobs:
       with:
         commit-message: 'Terraform Plan'
         branch: 'terraform-plan'
-        base: 'main'
-        token: ${{ secrets.GITHUB_TOKEN }}
+        base: 'pipelineActions'
+        # base: 'main'
+        # token: ${{ secrets.GITHUB_TOKEN }}
