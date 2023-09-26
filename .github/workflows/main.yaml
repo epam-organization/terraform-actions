@@ -6,7 +6,7 @@ on:
   push:
     # branches: [ main ]
     branches: 
-      - pipelinesActions
+      - 'pipelinesActions'
 
 jobs:
   deploy:
